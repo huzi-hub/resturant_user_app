@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028808097570",
+    "project_id": "funlocator-8db7d",
+    "storage_bucket": "funlocator-8db7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028808097570:android:04b617cc0080f25c0daf7b",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028808097570-hrf89titbnccrlv8sqdj360f1cpkg8v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiTsV0IkDCztq-z1J6L1xGF7irbEFjF_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028808097570-hrf89titbnccrlv8sqdj360f1cpkg8v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
